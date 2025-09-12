@@ -2,7 +2,7 @@
 
 ## WordPress Developer | Plugin Creator
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tirthagit&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tirthagit&show_icons=true&layout=compact&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tirthagit&layout=compact&theme=tokyonight)
 
