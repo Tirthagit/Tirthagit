@@ -41,9 +41,9 @@
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=logo&logo=gnu-bash&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=logo&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=logo&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=logo&logo=node.js)
+![Node.js](https://img.shields.io/badge/Node.js-FFFFFF?style=logo&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000000?style=logo&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=logo&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=logo&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=logo&logo=mysql)
 
 ## 📊 Weekly Development Breakdown
