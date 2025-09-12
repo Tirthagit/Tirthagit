@@ -38,7 +38,5 @@
 ## 🐍 Snake eating my contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tirthagit/Tirthagit/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Tirthagit/Tirthagit/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
-
