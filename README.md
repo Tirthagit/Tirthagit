@@ -15,3 +15,30 @@
 ### 📈 GitHub Activity
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tirthagit&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tirthagit&tokyonight" />
+</div>
+
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=Tirthagit&theme=synthwave&no-frame=true&no-bg=false&margin-w=4" />
+</div>
+
+### 🛠️ Technologies & Tools
+
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+## 📊 Weekly Development Breakdown
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
+
+## 🐍 Snake eating my contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tirthagit/Tirthagit/output/github-contribution-grid-snake.svg" />
+</div>
+
+
