@@ -9,7 +9,8 @@
 ### 🚀 Current Projects
 
 - **Latest Posts Widget** - Smart WordPress category widget with AI integration
-- **WordPress Performance Monitor** - Real-time site optimization tools
+- **Rust BMI-Calculator** - Simple command-line BMI (Body Mass Index) calculator written in Rust
+- **Linux DotFiles Manager** - A lightweight and customizable CLI tool for managing Linux dotfiles
 
 ### 📈 GitHub Activity
 
