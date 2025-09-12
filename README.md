@@ -46,11 +46,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=logo&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=logo&logo=mysql)
 
-## 📊 Weekly Development Breakdown
-
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
-
 ## 🐍 Snake eating my contributions
 
 <div align="center">
